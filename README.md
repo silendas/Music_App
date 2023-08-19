@@ -1,6 +1,6 @@
 # music_app
 
-A new Flutter project.
+application for listening to music from mobile devices.
 
 ## Getting Started
 
